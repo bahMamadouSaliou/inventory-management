@@ -98,7 +98,7 @@ const Sidebar = () => {
               isSidebarCollapsed ? "hidden" : "block"
             } font-semibold text-xs text-blue-700`}
           >
-            LE TOP AU BON CHOIX
+            LE TOP AU BON PRIX
           </h1>
         </h1>
         <button
