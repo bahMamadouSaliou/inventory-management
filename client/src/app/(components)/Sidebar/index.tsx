@@ -89,7 +89,7 @@ const Sidebar = () => {
         <h1
           className={`${
             isSidebarCollapsed ? "hidden" : "block"
-          } font-extrabold text-2xl text-red-700`}
+          } font-extrabold text-xl text-red-700`}
         >
           ABB SARLU
           <br />
